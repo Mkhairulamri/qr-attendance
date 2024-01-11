@@ -1,0 +1,73 @@
+ *{  
+      margin:0;  
+      padding:0;  
+ }  
+ body{  
+      font-family: Georgia, serif;  
+      font-size: 20px;  
+      font-style: italic;  
+      font-weight: normal;  
+      letter-spacing: normal;  
+      background: #f0f0f0;  
+ }  
+ .stikomlogo{  
+      width: 126px;  
+      height: 126px;  
+ }  
+ .photo{  
+      width: 150px;  
+      height: 150px;  
+      padding: 3px;  
+      background-color: white;  
+ }  
+ #content{  
+      background-color:#fff;  
+      width:750px;  
+      padding:10px;  
+      margin:0 auto;  
+      border-left:30px solid #1D81B6;  
+      border-right:1px solid #ddd;  
+      -moz-box-shadow:0px 0px 16px #aaa;  
+ }  
+ .head{  
+   color: #1D81B6;  
+   font-size:20px;  
+   text-align:center;  
+   padding:10px 0px;  
+   text-shadow:1px 1px 1px #444;       
+      border-bottom:3px solid #f0f0f0;  
+      padding-bottom:17px;  
+      margin-bottom:-2px;  
+ }  
+ .head a{  
+      color:#1D81B6;  
+      text-decoration:none;  
+      float:right;  
+      text-shadow:1px 1px 1px #888;  
+ }  
+ .head a:hover{  
+      color:#f0f0f0;  
+ }  
+ #content h1{  
+      font-family:"Trebuchet MS",sans-serif;  
+      color:#1D81B6;  
+      font-weight:normal;  
+      font-style:normal;  
+      font-size:56px;  
+      text-shadow:1px 1px 1px #aaa;  
+      padding-top: 33px;  
+      padding-bottom: 33px;  
+ }  
+ #content h2{  
+      font-family:"Trebuchet MS",sans-serif;  
+      font-size:26px;  
+      font-style:normal;  
+      background-color:#f0f0f0;  
+      margin:17px 0px 17px -40px;  
+      padding:0px 40px;  
+      clear:both;  
+      float:left;  
+      width:100%;  
+      color:#aaa;  
+      text-shadow:1px 1px 1px #fff;  
+ }  

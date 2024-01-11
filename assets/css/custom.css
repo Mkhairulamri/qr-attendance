@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("../font/Poppins-Regular.ttf");
+}
+
+:root {
+  --primary-color: #2d3e50;
+  --white-color: #fff;
+}
+
+body {
+  font-family: "Poppins", "Segoe UI", sans-serif;
+}
+
+.bg-espeaking {
+  background-color: var(--primary-color);
+}
+
+.btn-outline-espeaking {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-outline-espeaking:hover {
+  color: var(--white-color);
+  background-color: var(--primary-color);
+}
+
+.btn-espeaking {
+  color: var(--white-color);
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-espeaking:hover {
+  color: var(--white-color);
+  background-color: #1c252e;
+}
+
+.text-espeaking {
+  color: var(--primary-color);
+}
+
+.main-content {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

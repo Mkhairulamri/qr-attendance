@@ -1,0 +1,22 @@
+{
+  "name": "absensitk",
+  "version": "1.0.0",
+  "description": "What is CodeIgniter\r ###################",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hakim012/Absensi-TK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hakim012/Absensi-TK/issues"
+  },
+  "homepage": "https://github.com/Hakim012/Absensi-TK#readme",
+  "dependencies": {
+    "instascan": "^1.0.0"
+  }
+}
